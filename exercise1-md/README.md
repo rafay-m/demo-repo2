@@ -50,7 +50,7 @@ launches gazebo with smb
 - rostopic list
 
 ```bash
-rafay@omen:~$ rosnode list
+rosnode list
 /base_controller_spawner
 /gazebo
 /gazebo_gui
@@ -61,7 +61,7 @@ rafay@omen:~$ rosnode list
 - rostopic list
 
 ```bash
-rafay@omen:~$ rostopic list
+rostopic list
 /clock
 /cmd_vel
 /gazebo/link_states
